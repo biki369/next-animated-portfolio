@@ -3,4 +3,4 @@ export const menuLinks = [
     {url:"/about" , text:"About"},
     {url:"/portfolio" , text:"Portfolio"},
     {url:"/contact" , text:"Contact"},
-]
+];
