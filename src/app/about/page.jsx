@@ -166,7 +166,7 @@ const AboutPage = () => {
         </div>
         {/* right dev */}
         <div className="hidden">
-
+              
         </div>
       </div>
     </motion.div>
